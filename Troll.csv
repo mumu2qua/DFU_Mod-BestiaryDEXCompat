@@ -1,0 +1,10 @@
+Key,Value
+Title,"Troll"
+ButtonTextureName,"Troll"
+Summary,"Trolls are large, ape-like, bestial humanoids endowed with three eyes. They have regenerative powers that make them tough to kill. They are resistant to magicka, frost and shock, but are weak to fire and poison"
+Advice,"Trolls aren't that tough, it's their regenerative powers that make them a very unpleasant encounter for the unprepared. Use fire or poison spells to destroy its corpse"
+Material,"Silver or higher is required"
+Language,"Orcish"
+Abilities,"Can resurrect if body was not destroyed with fire or acid."
+NamedSpells,"None"
+TextureArchive,1618

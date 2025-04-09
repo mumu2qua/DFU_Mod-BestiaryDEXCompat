@@ -1,0 +1,10 @@
+Key,Value
+Title,"Fire Daemon"
+ButtonTextureName,"FireDaemon"
+Summary,"Fire Daemons are creatures from the netherworld, often gating themselves into Mundus on some errand of their choosing. They are dangerous foes, highly intelligent, completely chaotic in nature, and powerful in the ways of magic. They are resistant to fire and possess the ability to see invisible entities"
+Advice,"Fire resistance or spell guard usage is recommended. Contrary to common belief, they are not weak to cold."
+Material,"Mithril or higher are required."
+Language,"Daedric"
+Abilities,"Sees through invisibility, Immune to fire, deals fire damage on hit."
+NamedSpells,"Fireball, Fire Storm"
+TextureArchive,1627

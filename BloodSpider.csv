@@ -1,0 +1,10 @@
+Key,Value
+Title,"Blood Spider"
+ButtonTextureName,"BloodSpider"
+Summary,"Blood spider is a nasty kind of spider, while it doesn't paralyze its victims like the other kind, it sucks blood out of its prey."
+Advice,""
+Material,"No special material is required."
+Language,"None"
+Abilities,"Can transfer emeny health to itself on hit."
+NamedSpells,"None"
+TextureArchive,1624

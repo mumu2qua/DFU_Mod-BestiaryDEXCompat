@@ -1,0 +1,10 @@
+Key,Value
+Title,"Ghoul"
+ButtonTextureName,"Ghoul"
+Summary,"These undead are the carrion eaters of dungeons, crypts, and other burial places. They feast on human corpses and other rotting flesh. Although they are not intelligent, they have a natural cunning that aids them in finding food. Because of their vile habits, ghouls have a chance of transmitting a disease to those they bite."
+Advice,"Avoid direct contact to avoid getting deadly diseases."
+Material,"No special material is required."
+Language,"None"
+Abilities,"2% to spread disease to enemies on hit."
+NamedSpells,"None"
+TextureArchive,1626

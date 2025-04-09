@@ -1,0 +1,10 @@
+Key,Value
+Title,"Snow Wolf"
+ButtonTextureName,"SnowWolf"
+Summary,"Snow Wolves are a magical breed of the wolf, a more dangerous version of the normal wolf. These Snow Wolves are  able to freeze their prey using some sort of magic."
+Advice,"Close the distance fast to prevent it from shooting its Ice Bolts at you."
+Material,"No special material is required."
+Language,"None"
+Abilities,"Immunity to cold."
+NamedSpells,"Ice Bolt"
+TextureArchive,1615

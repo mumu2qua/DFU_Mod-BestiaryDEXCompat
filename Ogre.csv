@@ -1,0 +1,10 @@
+Key,Value
+Title,"Ogre"
+ButtonTextureName,"Ogre"
+Summary,"It's ogre"
+Advice,"A hit from an ogre can be devastating, best to keep your distance"
+Material,"No special material is required"
+Language,"Giantish"
+Abilities,"None"
+NamedSpells,"None"
+TextureArchive,1619

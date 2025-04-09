@@ -1,0 +1,10 @@
+Key,Value
+Title,"Iron Golem"
+ButtonTextureName,"IronGolem"
+Summary,"Golems are artificial creatures created from non-living or inanimate matter and animated by magic, often to act as as familiars or companions to powerful sorcerers."
+Advice,"Magicka is its weakness."
+Material,"No special material is required."
+Language,"None"
+Abilities,"Immunity to shock, poison and paralysis."
+NamedSpells,"None"
+TextureArchive,1629

@@ -1,0 +1,10 @@
+Key,Value
+Title,"Lizardman Warrior"
+ButtonTextureName,"LizardmanWarrior"
+Summary,"A tougher variant of lizardman."
+Advice,"It's best to use ranged attacks against lizardmen as they can paralyze you."
+Material,"Dwarven or higher is required"
+Language,"None"
+Abilities,"Can paralyze"
+NamedSpells,"None"
+TextureArchive,1607

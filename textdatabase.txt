@@ -1,0 +1,14 @@
+schema: *key, $text
+
+MONTITLE,        "DEX Monsters"
+MONTITLE2,       "DEX Monsters 2"
+MONSUM,          "The Monsters of Daggerfall Enemy Expansion"
+MONSUM2,         "The Monsters of Daggerfall Enemy Expansion, page 2"
+ANTITLE,         "DEX Animals"
+ANSUM,           "The Animals of Daggerfall Enemy Expansion"
+UNDTITLE,        "DEX Undead"
+UNDSUM,          "The Undead of Daggerfall Enemy Expansion"
+DAETITLE,        "DEX Daedra"
+DAESUM,          "The Daedra of Daggerfall Enemy Expansion"
+GOLTITLE,        "DEX Golems"
+GOLSUM,          "The Golems of Daggerfall Enemy Expansion"

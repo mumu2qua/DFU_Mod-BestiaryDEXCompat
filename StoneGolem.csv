@@ -1,0 +1,10 @@
+Key,Value
+Title,"Stone Golem"
+ButtonTextureName,"StoneGolem"
+Summary,"Golems are artificial creatures created from non-living or inanimate matter and animated by magic, often to act as as familiars or companions to powerful sorcerers."
+Advice,""
+Material,"No special material is required."
+Language,"None"
+Abilities,"Immunity to magicka, poison and paralysis."
+NamedSpells,"None"
+TextureArchive,1631

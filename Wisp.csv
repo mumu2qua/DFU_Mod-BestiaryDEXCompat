@@ -1,0 +1,10 @@
+Key,Value
+Title,"Will-o'-wisp"
+ButtonTextureName,"Wisp"
+Summary,"Wisps are mysterious and enigmatic, floating entities."
+Advice,""
+Material,"No special material is required."
+Language,"Spriggan"
+Abilities,"Drains spell points, can fly, has immunity to paralysis."
+NamedSpells,"None"
+TextureArchive,1610

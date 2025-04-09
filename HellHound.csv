@@ -1,0 +1,10 @@
+Key,Value
+Title,"Hell Hound"
+ButtonTextureName,"HellHound"
+Summary,"These canines are actually from the nether planes, usually summoned by some powerful being to perform a service. They attack with their powerful jaws, or with a fire breath that burns their intended victims."
+Advice,"Cold-based spells are the most effective against it, while fire-based are the least."
+Material,"Silver or higher are required."
+Language,"Daedric"
+Abilities,"Immunity to fire."
+NamedSpells,"Wizard's Fire"
+TextureArchive,1614
