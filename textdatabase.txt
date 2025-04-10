@@ -1,9 +1,9 @@
 schema: *key, $text
 
 MONTITLE,        "DEX Monsters"
-MONTITLE2,       "DEX Monsters 2"
+MMONTITLE,       "DEX More Monsters"
 MONSUM,          "The Monsters of Daggerfall Enemy Expansion"
-MONSUM2,         "The Monsters of Daggerfall Enemy Expansion, page 2"
+MMONSUM,         "More Monsters of Daggerfall Enemy Expansion"
 ANTITLE,         "DEX Animals"
 ANSUM,           "The Animals of Daggerfall Enemy Expansion"
 UNDTITLE,        "DEX Undead"
