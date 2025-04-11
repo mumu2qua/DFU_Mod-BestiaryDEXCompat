@@ -1,0 +1,10 @@
+Key,Value
+Title,"Bat"
+ButtonTextureName,"NormalBat"
+Summary,"Bats are flying mammals often found in caves and dungeons, traveling in groups."
+Advice,"Melee attacks can quickly dispatch these beasts, though attacking with arrows or spells will greatly reduce your odds of catching a disease."
+Material,"No Special Material is required."
+Language,"None"
+Abilities,"2% chance to inflict disease when attacking."
+NamedSpells,"None"
+TextureArchive,1603

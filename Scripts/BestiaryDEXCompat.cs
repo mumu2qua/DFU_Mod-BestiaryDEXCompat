@@ -76,7 +76,7 @@ namespace BestiaryDEXCompat
 
             var bestiaryGroups = new BestiaryGroup[]
             {
-                new BestiaryGroup(new[] { "Wolf", "SnowWolf", "BloodSpider", "MountainLion", "Boar", "Mudcrab", "Dog" }, TextFields.ANTITLE, TextFields.ANSUM),
+                new BestiaryGroup(new[] { "NormalBat", "Boar", "BloodSpider", "Dog", "MountainLion", "Mudcrab", "SnowWolf", "Wolf" }, TextFields.ANTITLE, TextFields.ANSUM),
                 new BestiaryGroup(new[] { "Goblin", "Homunculus", "Lizardman", "LizardmanWarrior", "Grotesque", "Minotaur", "Medusa", "Troll", "Ogre" }, TextFields.MONTITLE, TextFields.MONSUM),
                 new BestiaryGroup(new[] { "LandDreugh", "Wisp" }, TextFields.MMONTITLE, TextFields.MMONSUM),
                 new BestiaryGroup(new[] { "SkeletalSoldier", "GloomWraith", "FadedGhost", "Ghoul", "DireGhoul" }, TextFields.UNDTITLE, TextFields.UNDSUM),
