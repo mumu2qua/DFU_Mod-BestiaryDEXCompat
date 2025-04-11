@@ -2,9 +2,9 @@ Key,Value
 Title,"Homunculus"
 ButtonTextureName,"Homunculus"
 Summary,"Homonculi are strange beings created by a high level wizard who has somehow combined the properties of certain spells with parts of various demons. They are, therefore, a type of golem. These creatures are often set to guard areas, using their ability to fly to patrol corridors."
-Advice,"Since it casts powerful spells, it's best to use spell guard, reflection or absoption."
+Advice,"Since it casts powerful spells, it's best to use spell guard, reflection or absorption."
 Material,"Dwarven or higher is required"
 Language,"Impish"
 Abilities,"Can fly, sees through invisibility."
-NamedSpells,"Wizard's Fire, Free Action, Toxic Cloud, Chameleon"
+NamedSpells,"Wizard's Fire, Free Action, Toxic Cloud, Chameleon."
 TextureArchive,1602

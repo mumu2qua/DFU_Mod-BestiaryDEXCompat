@@ -1,10 +1,10 @@
 Key,Value
 Title,"Minotaur"
-ButtonTextureName,"Menotaur"
+ButtonTextureName,"Minotaur"
 Summary,"Minotaurs are fearsome humanoids with bodies that resemble humans and heads that resemble bulls, it is not uncommon for them to congregate at or near ancient sites."
 Advice,"Minotaurs do massive damage in melee, it's very advisable to keep your distance."
-Material,"Any"
+Material,"No special material is required."
 Language,"Centaurian"
-Abilities,"Resistance to magicka"
+Abilities,"Resistance to magicka."
 NamedSpells,"None"
 TextureArchive,1628
