@@ -108,7 +108,8 @@
         "Assets/Game/Mods/DFU_Mod-BestiaryDEXCompat/Textures/Minotaur_Active.png",
         "Assets/Game/Mods/DFU_Mod-BestiaryDEXCompat/NormalBat.csv",
         "Assets/Game/Mods/DFU_Mod-BestiaryDEXCompat/Textures/NormalBat.png",
-        "Assets/Game/Mods/DFU_Mod-BestiaryDEXCompat/Textures/NormalBat_Active.png"
+        "Assets/Game/Mods/DFU_Mod-BestiaryDEXCompat/Textures/NormalBat_Active.png",
+        "Assets/Game/Mods/DFU_Mod-BestiaryDEXCompat/Textures/Minotaur.png"
     ],
     "Dependencies": [
         {
